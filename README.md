@@ -5,7 +5,7 @@ Para ejecutar scripts de node desde la terminal, se ejecutar "npm i", luego "npm
 </h4>
 
 ```node
-node i
+npm i
 
 npm run dev
 npm run start
